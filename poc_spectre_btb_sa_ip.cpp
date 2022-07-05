@@ -180,7 +180,7 @@ int main(int argc, char **argv) {
     memset(mem, 0, pagesize * 290);
     maccess((void *)move_animal);
 
-    ptr[0] = ptr[0];
+    //ptr[0] = ptr[0];
 
     printf("Works if %c appears\n", SECRET);
     while (1) {
@@ -210,5 +210,4 @@ int main(int argc, char **argv) {
     }
 
     return EXIT_SUCCESS;
-
 }

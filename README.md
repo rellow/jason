@@ -1,1 +1,1 @@
-# noah - (OS independent) transient.fail poc(s)
+# (OS independent) transient.fail poc(s)

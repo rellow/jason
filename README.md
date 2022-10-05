@@ -7,10 +7,10 @@ The same-address-space, in-place variant of Spectre-PHT. This was one of the fir
 
 ## References
 
-###### Spectre Attacks: Exploiting Speculative Execution
+- Spectre Attacks: Exploiting Speculative Execution
 Paul Kocher, Jann Horn, Anders Fogh, Daniel Genkin, Daniel Gruss, Werner Haas, Mike Hamburg, Moritz Lipp, Stefan Mangard, Thomas Prescher, Michael Schwarz, Yuval Yarom (IEEE S&P 2019)
 
-###### Speculative Buffer Overflows: Attacks and Defenses
+- Speculative Buffer Overflows: Attacks and Defenses
 Vladimir Kiriansky, Carl Waldspurger 
 
 ###### A Systematic Evaluation of Transient Execution Attacks and Defenses
